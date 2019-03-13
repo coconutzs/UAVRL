@@ -1,6 +1,6 @@
 import os
 import time
-import ddpg_rnn_model4
+import model
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt

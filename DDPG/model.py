@@ -1,5 +1,3 @@
-import tensorflow as tf
-import numpy as np
 from config import *
 
 class RNN(object):

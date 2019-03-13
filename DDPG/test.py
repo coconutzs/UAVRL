@@ -1,7 +1,6 @@
 import os
-import ddpg_rnn_model4
+import model
 import time
-import numpy as np
 from config import *
 import tensorflow as tf
 import matplotlib
